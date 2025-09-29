@@ -26,7 +26,6 @@ class Solution:
 
 		return min_number
 
-
 if __name__ == "__main__":
 	s = Solution()
 	sample = [3, 7, 1, 9, 2]

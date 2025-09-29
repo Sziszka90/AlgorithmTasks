@@ -37,14 +37,8 @@ class Solution:
 				third = num
 
 		return third
-		
-
-			
-            
-
 
 if __name__ == "__main__":
-	# Minimal runnable example (raises NotImplementedError until implemented)
 	s = Solution()
 	sample = [3, 7, 1, 9, 2]
 	print(s.find_third_max(sample))

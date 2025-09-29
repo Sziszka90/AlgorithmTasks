@@ -23,8 +23,7 @@ class Solution:
 			if num > max_number:
 				max_number = num
 
-		return max_number
-		
+		return max_number	
 
 if __name__ == "__main__":
 	s = Solution()
