@@ -20,14 +20,10 @@ class Solution:
 			return None
 
 		last_non_zero_found_at = 0
-
-		for num in nums:
-			if num != 0:
-				nums[last_non_zero_found_at] = num
+		for i in range(len(nums)):
+			if nums[i] != 0:
+				nums[last_non_zero_found_at], nums[i] = nums[i], nums[last_non_zero_found_at]
 				last_non_zero_found_at += 1
-
-		for i in range(last_non_zero_found_at, len(nums)):
-			nums[i] = 0
 
 		return nums
 
