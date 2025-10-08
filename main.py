@@ -1,3 +1,39 @@
-str = "Reverse this sentence"
+Check if a string is a palindrome
 
-print(str[::-1])
+Find the maximum number in a list
+
+Check if a list is sorted in ascending order
+
+Count occurrences of each element in a list
+
+Remove duplicates while preserving order
+
+Rotate a list by k positions
+
+Reverse a string without using [::-1]
+
+Find the second largest number in a list
+
+Merge two sorted lists
+
+Find common elements between two lists
+
+Sum all even numbers in a list
+
+Check if two strings are anagrams
+
+Find missing number in a sequence
+
+Return unique elements from a list
+
+Move all zeros to the end of the list
+
+Find the first non-repeating character in a string
+
+Calculate factorial of a number
+
+Generate Fibonacci sequence up to n
+
+Check if all elements in a list are unique
+
+Find intersection of two arrays
