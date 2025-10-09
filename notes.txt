@@ -39,3 +39,5 @@ Check if all elements in a list are unique
 Find intersection of two arrays
 
 Longest Substring with At Most K Repeating / Distinct Characters
+
+Sum of Consecutive Even Numbers
