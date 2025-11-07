@@ -29,5 +29,5 @@ class Solution:
 
 if __name__ == "__main__":
 	s = Solution()
-	sample = [0, 1, 0, 3, 12]
+	sample = [1, 0, 0, 0, 3, 12]
 	print(s.move_zeros(sample))
